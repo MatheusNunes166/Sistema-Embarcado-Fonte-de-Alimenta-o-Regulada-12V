@@ -36,7 +36,7 @@ O layout da placa de circuito impresso foi desenvolvido respeitando as seguintes
 <img width="331" height="604" alt="{89170E42-59EC-46EA-B7F0-CDF43A863870}" src="https://github.com/user-attachments/assets/49fbe13c-4347-4cb3-8b68-b57339ad7faf" />
 
 
-## Lista de Materiais (BOM)
+## Lista de Materiais 
 
 | Componente | Referência | Descrição Técnica | Qtd |
 | :--- | :--- | :--- | :--- |
