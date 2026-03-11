@@ -31,9 +31,10 @@ O layout da placa de circuito impresso foi desenvolvido respeitando as seguintes
 
 <img width="341" height="547" alt="{B790AD3A-9BF1-41E9-A485-D948191DB72E}" src="https://github.com/user-attachments/assets/ed4be6e7-b233-4760-b30e-82d7e8a16b90" />
 
-<img width="327" height="487" alt="{37992ECA-9AEF-4D3A-A3D4-1DDCC4DB4FF1}" src="https://github.com/user-attachments/assets/6c48867f-d090-4bce-be98-9ff0bffedae7" />
+<img width="336" height="569" alt="{E1B34C44-3F3F-489E-845E-62EF6CADCB0A}" src="https://github.com/user-attachments/assets/c64dca8a-7f56-4661-b3d7-5ac9cff3c318" />
 
-<img width="281" height="447" alt="{097AF015-D189-454B-8187-9879278EE99C}" src="https://github.com/user-attachments/assets/4c31c433-c417-4d2a-9d31-c491c75915f9" />
+<img width="331" height="604" alt="{89170E42-59EC-46EA-B7F0-CDF43A863870}" src="https://github.com/user-attachments/assets/49fbe13c-4347-4cb3-8b68-b57339ad7faf" />
+
 
 ## Lista de Materiais (BOM)
 
