@@ -1,6 +1,6 @@
 # Projeto: Fonte de Alimentação Linear Regulada 12V DC
 
-Este repositório contém o projeto completo de uma fonte de alimentação chaveada linear, desenvolvida como parte de um protótipo de carregador/alimentador estável. O projeto foi elaborado utilizando o software **Proteus 8 Professional**.
+Esse repositório guarda o projeto completo de uma fonte de alimentação linear de 12V, que desenvolvi como parte de um protótipo para um carregador ou alimentador estável. A ideia aqui era criar algo simples, confiável e seguro — ideal para alimentar pequenos circuitos ou projetos eletrônicos que exigem uma tensão bem comportada.
 
 ## Descrição do Projeto
 
