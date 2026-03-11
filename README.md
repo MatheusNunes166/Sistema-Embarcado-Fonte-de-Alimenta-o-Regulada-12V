@@ -1,24 +1,24 @@
-# Sistema-Embarcado-Fonte-de-Alimenta-o-Regulada-12V
+# Sistema-Embarcado-Fonte-de-Alimentação-Regulada-12V
 
 Este repositório contém o projeto completo de uma fonte de alimentação chaveada linear, desenvolvida como parte de um protótipo de carregador/alimentador estável. O projeto foi elaborado utilizando o software **Proteus (ISIS/ARES)**.
 
-## 📋 Descrição do Projeto
+## Descricao do Projeto
 
 O objetivo deste circuito é converter a tensão alternada (AC) proveniente de um transformador em uma tensão contínua (DC) estável de **12 Volts**. Essa estabilidade é fundamental para alimentar microcontroladores, sensores e circuitos de automação sem variações que possam causar erros de leitura ou danos aos componentes.
 
 
 <img width="1091" height="238" alt="{D68EB3C4-B96D-466E-95E2-F06F7A61F20C}" src="https://github.com/user-attachments/assets/bd6f60f6-3ea4-49d4-95af-1650015cb724" />
 
-## ⚙️ Funcionamento Etapa por Etapa
+## Funcionamento Etapa por Etapa
 
 1. **Entrada (AC):** O conector **J2** recebe a tensão do secundário de um transformador.
-2. **Retificação:** A ponte de diodos **BR1** realiza a retificação em onda completa, garantindo que a corrente flua em apenas um sentido.
+2. **Retificacao:** A ponte de diodos **BR1** realiza a retificação em onda completa, garantindo que a corrente flua em apenas um sentido.
 3. **Filtragem Primária:** O capacitor eletrolítico **C1 (1000uF)** atua como um reservatório de carga, suavizando a "onda" da tensão e reduzindo o *ripple*.
-4. **Regulação:** O CI **LM7812** (Regulador Linear) garante que, independentemente de oscilações na entrada, a saída permaneça em exatos 12V.
-5. **Estabilização e Ruído:** Os capacitores **C2 e C3 (100nF)** filtram ruídos de alta frequência para uma saída mais "limpa".
-6. **Sinalização:** O conjunto **R1 + D1 (LED)** indica visualmente que a placa está energizada e regulada.
+4. **Regulacao:** O CI **LM7812** (Regulador Linear) garante que, independentemente de oscilações na entrada, a saída permaneça em exatos 12V.
+5. **Estabilizacao e Ruido:** Os capacitores **C2 e C3 (100nF)** filtram ruídos de alta frequência para uma saída mais "limpa".
+6. **Sinalizacao:** O conjunto **R1 + D1 (LED)** indica visualmente que a placa está energizada e regulada.
 
-## 🛠️ Especificações da PCB
+## Especificações da PCB
 
 O layout da placa de circuito impresso foi desenvolvido respeitando as seguintes normas técnicas:
 
@@ -33,14 +33,14 @@ O layout da placa de circuito impresso foi desenvolvido respeitando as seguintes
 
 <img width="281" height="447" alt="{097AF015-D189-454B-8187-9879278EE99C}" src="https://github.com/user-attachments/assets/4c31c433-c417-4d2a-9d31-c491c75915f9" />
 
-## 📦 Lista de Materiais (BOM)
+## Lista de Materiais (BOM)
 
-| Componente | Referência | Descrição Técnica | Qtd |
+| Componente | Referencia | Descricao Tecnica | Qtd |
 | :--- | :--- | :--- | :--- |
 | Borne de Entrada | J2 | Conector macho para secundário de transformador | 1 |
 | Ponte Retificadora | BR1 | Ponte de diodos 2W005G | 1 |
 | Capacitor de Filtro | C1 | Eletrolítico 1000uF / 25V | 1 |
-| Capacitores de Desacoplamento | C2, C3 | Cerâmico 100nF | 2 |
+| Capacitores de Desacoplamento | C2, C3 | Ceramico 100nF | 2 |
 | Regulador de Tensão | U1 | CI L7812 (Encapsulamento TO-220) | 1 |
 | Resistor | R1 | 1kΩ (Limitador de corrente do LED) | 1 |
 | LED Indicador | D1 | LED Vermelho 5mm | 1 |
