@@ -1,6 +1,6 @@
 # Sistema-Embarcado-Fonte-de-Alimentação-Regulada-12V
 
-Este repositório contém o projeto de uma fonte que converte tensão alternada da tomada em 12V contínuos e estáveis, ideal para alimentar Arduinos, sensores e outros circuitos eletrônicos. O circuito foi desenvolvido no Proteus (ISIS/ARES) e já inclui o layout da placa pronta para fabricação.
+Este repositório contém o projeto de uma fonte que converte tensão alternada da tomada em 12V contínuos e estáveis, ideal para alimentar Arduinos, sensores e outros circuitos eletrônicos. O circuito foi desenvolvido no Proteus 8 Professional e já inclui o layout da placa pronta para fabricação.
 
 Funcionamento Resumido
 
