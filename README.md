@@ -2,7 +2,7 @@
 
 Este repositório contém o projeto completo de uma fonte de alimentação chaveada linear, desenvolvida como parte de um protótipo de carregador/alimentador estável. O projeto foi elaborado utilizando o software **Proteus (ISIS/ARES)**.
 
-## 📋 Descrição do Projeto
+## Descrição do Projeto
 
 O objetivo deste circuito é converter a tensão alternada (AC) proveniente de um transformador em uma tensão contínua (DC) estável de **12 Volts**. Essa estabilidade é fundamental para alimentar microcontroladores, sensores e circuitos de automação sem variações que possam causar erros de leitura ou danos aos componentes.
 
